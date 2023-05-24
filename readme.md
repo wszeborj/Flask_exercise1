@@ -17,6 +17,7 @@ the message: "Hello, 'your username'. You're with us for 'number of days since r
 <ul>
 <li>Python 3.10</li>
 <li>Html</li>
+<li>Flask</li>
 <li>SQLAlchemy</li>
 </ul>
 
